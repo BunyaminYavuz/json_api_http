@@ -6,11 +6,11 @@
         "model": [
             {
                 "model_name": "a_series",
-                "price": 80.000
+                "price": 80000
             },
             {
                 "model_name": "b_series",
-                "price": 100.000
+                "price": 100000
             }
         ]
     },
@@ -21,11 +21,11 @@
         "model": [
             {
                 "model_name": "a_series",
-                "price": 200.000
+                "price": 200000
             },
             {
                 "model_name": "b_series",
-                "price": 400.000
+                "price": 400000
             }
         ]
     }
